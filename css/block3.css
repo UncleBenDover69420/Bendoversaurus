@@ -1,0 +1,3 @@
+.blockActive {
+    animation: blockAnimate 0.88s linear infinite;
+}
